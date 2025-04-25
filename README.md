@@ -1,6 +1,6 @@
 # Malaria Detection using CNNs
 
-This project aims to develop a Convolutional Neural Network (CNN) to classify blood smear images as either "Malaria" or "Uninfected" to assist in the early detection of malaria. The dataset consists of around 27,500 annotated PNG images of blood smears, equally split between healthy and malaria-infected samples, taken at 100x zoom in RGB color space.
+This project aims to develop a Convolutional Neural Network (CNN) to classify blood smear images as either "Malaria" or "Uninfected" to assist in the early detection of malaria. The dataset consists of around 27,500 annotated PNG images of blood smears, equally split between healthy and malaria-infected samples, taken at 100x zoom in RGB color space. The image data is not included in this repository because it exceeds the github file size limit. A link to the dataset is provided below.
 
 ## Dataset
 
